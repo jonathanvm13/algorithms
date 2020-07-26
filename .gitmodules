@@ -1,0 +1,3 @@
+[submodule "PyRival"]
+	path = PyRival
+	url = git@github.com:jonathanvm13/PyRival.git
